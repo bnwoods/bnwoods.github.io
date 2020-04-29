@@ -56,7 +56,7 @@ Click the Create Integration button
 Select AWS and fill out the form keeping the following in mind:
 
 - Name your integration something meaningful
-- Select "API" for service. This will auto discover all regions in the integrated account. If you intend to scan actual EC2 instances, using the EC2 service type would be acceptible. This will auto discover all EC2 instances in the integrated account.
+- Select "API" for service. This will auto discover all regions in the integrated account. If you intend to scan actual EC2 instances, using the EC2 service type would be acceptable. This will auto discover all EC2 instances in the integrated account.
 - This is going to require AWS Access Keys for the account you intend to integrate. The account you intend to use should have at minimum global read permissions (`arn:aws:iam::aws:policy/ReadOnlyAccess`)
   
 Once you've filled out all the information, click Save Integration
