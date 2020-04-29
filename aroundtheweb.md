@@ -1,0 +1,27 @@
+---
+layout: page
+title: Around the Web
+featured_image: /assets/images/original-images/Chef-Conf-2019-05-B-Stage-078.jpg
+---
+
+#### Chef Blog
+
+*ChefConf: What Keeps Me Coming Back*: See my post on [Chef's blog](https://blog.chef.io/chefconf-what-keeps-me-coming-back/) where I talk about why I continue going to ChefConf after all these years.
+
+#### CIO Magazine
+
+*7 tech buzzwords to cancel in 2020*: For [this article](https://www.cio.com/article/3514431/7-tech-buzzwords-to-cancel-for-2020.html), I chatted with CIO Magazine's Clint Boulton to talk about tech buzzwords that are losing their meaning in the industry.
+
+#### DevOps.com
+
+*Using Automation Tools to Drive Collaboration, Innovation*: My [post on devops.com](https://devops.com/using-automation-tools-to-drive-collaboration-innovation/) highlights how you can use automation tools to drive collaboration and spark devops practises within your organization. 
+
+#### TechTarget
+
+*Security automation charges IT ops to build the 'paved road'*: For [this article](https://searchitoperations.techtarget.com/feature/Security-automation-charges-IT-ops-to-build-the-paved-road), I spoke with Senior News Writer Beth Pariseau about how at CARFAX we have empowered all of our users to learn Chef. 
+
+*Chef Automate 2.0 renews appeal to DevOps shops*: [Here](https://searchitoperations.techtarget.com/news/252441788/Chef-Automate-20-renews-appeal-to-DevOps-shops), I once again speak with Beth Pariseau about whether the release of Chef Automate 2.0 lived up to our expectations.
+
+#### SiliconAngle
+
+*At ChefConf, abstracting the intractable and automating the enterprise*: In [this article](https://siliconangle.com/2019/05/24/chefconf-abstracting-intractable-automating-enterprise/), Jason English gives a nice write up where he mentions my 2019 ChefConf keynote where I shared how dev and infrastructure teams are working together to automate the things at CARFAX.
