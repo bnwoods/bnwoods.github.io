@@ -50,7 +50,6 @@ navigation:
 # Required Plugins
 plugins_dir:
   - jekyll-paginate
-  - jekyll-tagsgenerator
   - jekyll-seo-tag
   - jekyll-sitemap
 
