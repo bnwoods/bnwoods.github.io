@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Chef Automate 2.0 SAML Setup with Okta'
-tags: [ Chef Automate, SAML ]
+tags: [ Chef Automate ]
 excerpt: 'A Tutorial for Setting Up SAML in A2 with Okta'
 ---
 

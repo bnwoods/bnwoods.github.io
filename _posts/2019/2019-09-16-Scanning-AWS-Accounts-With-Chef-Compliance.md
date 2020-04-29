@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Scanning AWS Accounts with Chef Inspec'
-tags: [ Inspec, Chef Automate, AWS ]
+tags: [ Chef Automate, Inspec, AWS ]
 excerpt: 'A Non-Complicated Tutorial for Setting Up AWS Account Scanning with Chef Compliance and Inspec'
 ---
 

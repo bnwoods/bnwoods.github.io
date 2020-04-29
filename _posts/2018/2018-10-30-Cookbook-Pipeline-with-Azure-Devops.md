@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Creating a Cookbook Pipeline Using Azure DevOps'
-tags: [ Chef, Cookbooks, Azure ]
+tags: [ Chef, Azure ]
 excerpt: 'A Tutorial for Setting Up A Cookbook Pipeline Using Azure DevOps'
 ---
 
