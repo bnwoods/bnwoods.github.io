@@ -5,7 +5,7 @@ meta_description: 'Brittany Woods, automater, lover of tea, haver of opinions, s
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-production_url: https://brittanynwoods.com
+production_url: https://brittanynwoods.com/
 cover_image: bc_1.png
 # Add your GA Tracking Id
 ga_analytics: 
