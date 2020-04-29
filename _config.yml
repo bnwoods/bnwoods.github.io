@@ -39,13 +39,13 @@ producthunt:
 # Navigation
 navigation:
   - text: About
-    url: /about/
+    url: /about
   - text: Speaking
-    url: /speaking/
+    url: /speaking
   - text: Around the Web
-    url: /aroundtheweb/
+    url: /aroundtheweb
   - text: Contact Me
-    url: /contact/
+    url: /contact
 
 # Required Plugins
 plugins_dir:
