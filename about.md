@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About
 featured_image: /assets/images/pages/about-brittany.jpg
 ---
