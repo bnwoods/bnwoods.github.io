@@ -63,7 +63,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;Name your integration something meaningful&lt;/li&gt;
-  &lt;li&gt;Select “API” for service. This will auto discover all regions in the integrated account. If you intend to scan actual EC2 instances, using the EC2 service type would be acceptible. This will auto discover all EC2 instances in the integrated account.&lt;/li&gt;
+  &lt;li&gt;Select “API” for service. This will auto discover all regions in the integrated account. If you intend to scan actual EC2 instances, using the EC2 service type would be acceptable. This will auto discover all EC2 instances in the integrated account.&lt;/li&gt;
   &lt;li&gt;This is going to require AWS Access Keys for the account you intend to integrate. The account you intend to use should have at minimum global read permissions (&lt;code class=&quot;highlighter-rouge&quot;&gt;arn:aws:iam::aws:policy/ReadOnlyAccess&lt;/code&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
