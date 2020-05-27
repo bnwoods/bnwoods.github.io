@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: brittanynwoods.com/sitemap.xml
