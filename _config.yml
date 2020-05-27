@@ -44,6 +44,8 @@ navigation:
     url: /speaking
   - text: Around the Web
     url: /aroundtheweb
+  - text: Consulting
+    url: /consulting
   - text: Contact Me
     url: /contact
 
