@@ -46,6 +46,8 @@ navigation:
     url: /aroundtheweb
   - text: Consulting
     url: /consulting
+  - text: Resume
+    url: /resume
   - text: Contact Me
     url: /contact
 
