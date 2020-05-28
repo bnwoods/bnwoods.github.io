@@ -8,6 +8,14 @@ If you're interested in having me speak at your event, please reach out via [Twi
 
 ### _Upcoming Talks_
 
+#### ChefConf 2020 - Online - June 3, 2020 - WomXn in Technology Panel: Success in the Face of Adversity
+
+I will be participating in this panel with other awesome womxn from the community including Stephanie Aurich, Alayshia Knighten, and Kristianne Avedian.
+
+*Description*: WomXn in the tech industry face a diverse set of challenges and rise up to meet them each day with strength and determination. Join us to engage with four womxn tech champions who conquered obstacles and adversity in their professional lives. These panelists will share empowering stories of strength, creativity, and rising to overcome challenges faced by many womxn in the workplace today, with Q&A opportunities offered for our attendees. Immediately following the panel, we invite our guests to switch on their webcams and stay for a mocktail hour to continue the conversation, just like we would in person!
+
+### _Past Talks_
+
 #### ChefConf 2020 - Online - May 27, 2020 - Session: Use Data, You Must: Leveraging Chef Data in ServiceNow
 
 *Description*: As we have automated our processes, it has become more important than ever to maintain visibility into our systems. As part of that, harnessing the power of our data is on the forefront of all of our minds. Chef is a treasure trove of data. ServiceNow acts as a pane of glass for incidents and events among your ecosystem. ServiceNow, in many cases, also houses change data and CMDB data about your ecosystem.
@@ -16,13 +24,13 @@ How can you marry the two? By taking advantage of the many different ways to int
 
 Join me as we discuss the many different ways you can integrate these two systems effectively to get the most out of your data, the benefit doing that will provide you, and why you would want to do this in the first place.
 
-#### ChefConf 2020 - Online - June 3, 2020 - WomXn in Technology Panel: Success in the Face of Adversity
+#### Chef Webinar: Integrating Chef with ServiceNow: Improve Velocity with Automation Insights
 
-I will be participating in this panel with other awesome womxn from the community including Stephanie Aurich, Alayshia Knighten, and Kristianne Avedian.
+*Description*: Chef provides solutions for automating everything, from infrastructure configurations to application definitions to security and compliance audits. Automation can vastly improve the velocity with which organizations implement change, but can also generate large amounts of data as environments grow and change. By integrating Chef with ServiceNow, organizations get the best of both worlds: first-class automation solutions with actionable data exported to ServiceNow to ensure consistent visibility into systems' state.
 
-*Description*: WomXn in the tech industry face a diverse set of challenges and rise up to meet them each day with strength and determination. Join us to engage with four womxn tech champions who conquered obstacles and adversity in their professional lives. These panelists will share empowering stories of strength, creativity, and rising to overcome challenges faced by many womxn in the workplace today, with Q&A opportunities offered for our attendees. Immediately following the panel, we invite our guests to switch on their webcams and stay for a mocktail hour to continue the conversation, just like we would in person!
+In this webinar, Nick Rycar, Sr. Technical Product Marketing Manager at Chef, and Brittany Woods, Automation Engineer at CARFAX, discuss the benefits of using Chef and ServiceNow together. They provide an overview Chef's ServiceNow functionality, discuss how CARFAX is driving innovation through automation, and give a brief demonstration of the ServiceNow integrations in action.
 
-### _Past Talks_
+[![Chef and ServiceNow Webinar](/assets/images/webinar-snow-chef.png)](https://www.youtube.com/watch?v=rLi3qbKhaTk&feature=youtu.be)
 
 #### ChefConf 2019 - Seattle, WA - May 20-23, 2019 - Mainstage: Keynote Day 1
 
