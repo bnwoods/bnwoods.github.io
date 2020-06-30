@@ -13,4 +13,4 @@ If you have questions about any of the following, I would love to be in touch to
 - AWS
 - DevOps Transformations
 
-Please contact me at <brittanywoods2008@gmail.com> and we can discuss your needs further!
+Please contact me at <brittany.woods@hey.com> and we can discuss your needs further!
