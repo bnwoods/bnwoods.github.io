@@ -8,7 +8,7 @@ If you're interested in having me speak at your event, please reach out via [Twi
 
 ### _Upcoming Talks_
 
-#### Chef WomXn in Tech Event: Mocktail Hour - Online - July 15, 2020 - 6PM-7PM Central Time
+#### Chef WomXn in Tech Event: Mocktail Hour - Online - July 16, 2020 - 6PM-7PM Central Time
 
 ### _Past Talks_
 
@@ -17,6 +17,10 @@ If you're interested in having me speak at your event, please reach out via [Twi
 I will be participating in this panel with other awesome womxn from the community including Stephanie Aurich, Alayshia Knighten, and Kristianne Avedian.
 
 *Description*: WomXn in the tech industry face a diverse set of challenges and rise up to meet them each day with strength and determination. Join us to engage with four womxn tech champions who conquered obstacles and adversity in their professional lives. These panelists will share empowering stories of strength, creativity, and rising to overcome challenges faced by many womxn in the workplace today, with Q&A opportunities offered for our attendees. Immediately following the panel, we invite our guests to switch on their webcams and stay for a mocktail hour to continue the conversation, just like we would in person!
+
+#### Chef LIVE! - Online - May 29, 2020 - Episode: Introducing the Sous Chefs
+
+[![Chef LIVE! Brittany Woods](/assets/images/chef-live-thumbnail.png)](https://www.youtube.com/watch?v=7hQs_dCtqkw&t)
 
 #### ChefConf 2020 - Online - May 27, 2020 - Session: Use Data, You Must: Leveraging Chef Data in ServiceNow
 
