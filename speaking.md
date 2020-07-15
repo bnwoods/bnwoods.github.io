@@ -8,7 +8,7 @@ If you're interested in having me speak at your event, please reach out via [Twi
 
 ### _Upcoming Talks_
 
-#### Chef WomXn in Tech Event: Mocktail Hour - Online - July 16, 2020 - 6PM-7PM Central Time
+
 
 ### _Past Talks_
 
