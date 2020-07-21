@@ -1,7 +1,7 @@
-# Site setings
+# Site settings
 name: 'Brittany Woods'
-description: 'Brittany is an automater of the things, a devops practitioner, a speaker, a shade queen, and an animal lover.'
-meta_description: 'Brittany Woods, automater, lover of tea, haver of opinions, shade queen'
+description: 'Brittany is an automator of the things, a DevOps practitioner, a speaker, a shade queen, and an animal lover.'
+meta_description: 'Brittany Woods, automator, lover of tea, haver of opinions, shade queen'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
@@ -17,7 +17,7 @@ author:
   image: 'authorimage.jpg'
   greetings: "Hi! I'm Brittany"
   description: "I automate computer things. I love tea. I have opinions. I throw some shade on Twitter."
-  bio: 'Brittany is an automater of the things, a devops practitioner, a speaker, a shade queen, and an animal lover.'
+  bio: 'Brittany is an automator of the things, a DevOps practitioner, a speaker, a shade queen, and an animal lover.'
 
 # Contact form setings
 email: brittany.woods@hey.com
