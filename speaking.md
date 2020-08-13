@@ -18,6 +18,8 @@ I will be participating in this panel with other awesome womxn from the communit
 
 *Description*: WomXn in the tech industry face a diverse set of challenges and rise up to meet them each day with strength and determination. Join us to engage with four womxn tech champions who conquered obstacles and adversity in their professional lives. These panelists will share empowering stories of strength, creativity, and rising to overcome challenges faced by many womxn in the workplace today, with Q&A opportunities offered for our attendees. Immediately following the panel, we invite our guests to switch on their webcams and stay for a mocktail hour to continue the conversation, just like we would in person!
 
+[![Womxn in Tech Panel Brittany Woods](/assets/images/womxn-in-tech-panel.png)](https://platform.evia.events/Library/MediaDetail/3206)
+
 #### Chef LIVE! - Online - May 29, 2020 - Episode: Introducing the Sous Chefs
 
 [![Chef LIVE! Brittany Woods](/assets/images/chef-live-thumbnail.png)](https://www.youtube.com/watch?v=7hQs_dCtqkw&t)
@@ -29,6 +31,8 @@ I will be participating in this panel with other awesome womxn from the communit
 How can you marry the two? By taking advantage of the many different ways to integrate these two systems, you can improve your visibility into your systems, improve ecosystem health, improve the accuracy of your CMDB data, and improve incident tracking and response.
 
 Join me as we discuss the many different ways you can integrate these two systems effectively to get the most out of your data, the benefit doing that will provide you, and why you would want to do this in the first place.
+
+[![Use Data, You Must Brittany Woods](/assets/images/use-data-you-must.png)](https://platform.evia.events/Library/MediaDetail/3177)
 
 #### Chef Webinar: Integrating Chef with ServiceNow: Improve Velocity with Automation Insights
 
@@ -45,6 +49,8 @@ In this webinar, Nick Rycar, Sr. Technical Product Marketing Manager at Chef, an
 #### ChefConf 2019 - Seattle, WA - May 20-23, 2019 - Session: Bridging the Great Divide: Using Chef as a Spark for DevOps
 
 *Description*: Historically, dev teams and ops teams have set on separate sides of the fence. DevOps has been sold as the answer. Bring your teams together and work will be more efficient and harmonious. What happens if you work in a slower moving industry or for a company that is just getting started in this movement? How can you ignite change? Many tools we work with today have been developed with DevOps principles in mind — Chef being one of them. In this talk, I'll highlight how you can use Chef to spark change in your org and get on a path to a more collaborative future. I'll also talk about how using Chef can lead a person on a personal DevOps journey by highlighting my path to Chef enlightenment.
+
+[![Bridging The Great Divide Brittany Woods](/assets/images/bridging-the-great-divide.png)](https://www.youtube.com/watch?v=VnHJDl7SUjc&t)
 
 #### ChefConf 2018 - Chicago, IL - May 22-25, 2018 - Session: Herding Cats: How to Get an Entire Organization Cooking With Chef
 
