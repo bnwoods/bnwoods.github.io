@@ -8,7 +8,7 @@ If you're interested in having me speak at your event, please reach out via [Twi
 
 ### _Upcoming Talks_
 
-
+#### ShuttleOps DevOps AMA - Online - August 26, 2020
 
 ### _Past Talks_
 
