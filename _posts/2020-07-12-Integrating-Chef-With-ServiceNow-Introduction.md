@@ -3,8 +3,6 @@ layout: post
 title:  'Integrating Chef with ServiceNow - Part 1 - Introduction'
 tags: [ Chef Automate, ServiceNow ]
 excerpt: 'An introduction to the various ways you can integrate Chef with ServiceNow. Part 1 of a technical blog series'
-featured: true
-hidden: true
 ---
 
 When managing infrastructure and other resources with Chef you are given an incredible insight into your managed nodes. From installed packages to configuration values to system data like IPs and FQDNs, the data gathered by Chef can be leveraged in essentially any "single pane of glass" system your company uses. It becomes as simple as answering the question "what data do I want?".
