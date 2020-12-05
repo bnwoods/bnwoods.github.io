@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Chef Automate 2.0 SAML Setup with Azure AD'
-tags: [ Chef Automate ]
+tags: [ Chef Automate, Azure ]
 excerpt: 'A Tutorial for Setting Up SAML in A2 with Azure AD'
 ---
 

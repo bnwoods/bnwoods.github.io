@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Basic Chef Policyfile Pipeline with Azure DevOps Pipelines'
-tags: [ Chef ]
+tags: [ Chef, Azure ]
 excerpt: 'Create a quick and dirty simple Chef policyfile pipeline using Azure DevOps Pipelines'
 ---
 
