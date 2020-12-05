@@ -9,6 +9,6 @@ Brittany Woods is an automator of things based in central Missouri. During her c
 
 When she's not automating the things, Brittany enjoys the casual binge watch on your favorite streaming service, lazy weekends, clarinet and bass guitar playing, and home improvement projects.
 
-Brittany is currently an Automation Engineer with CARFAX.
+Brittany is currently a Lead Cloud Automation Engineer with H&R Block.
 
 Brittany’s pronouns are she/her. 
