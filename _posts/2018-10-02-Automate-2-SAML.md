@@ -17,14 +17,14 @@ excerpt: 'A Tutorial for Setting Up SAML in A2 with Okta'
 - Fill in the name of your app and add a logo on the next screen, then click next
 
 - On the SAML settings screen, use the following settings in the form then click next: 
-    - *Single sign on URL*: This should be the URL for your automate server plus /dex/callback. Example: https://your-automate.server/dex/callback 
-    - *Audience URI*: This will be the same URL as Single sign on URL
-    - *Default RelayState* should be blank
-    - *Name ID Format* should be Unspecified
-    - *Application Username* should be Email
-    - Under *attributes* you'll want to create two:
-        - *Name*: email  *Value*: user.email
-        - *Name*: username    *Value*: user.login
+    - **Single sign on URL**: This should be the URL for your automate server plus /dex/callback. Example: https://your-automate.server/dex/callback 
+    - **Audience URI**: This will be the same URL as Single sign on URL
+    - **Default RelayState** should be blank
+    - **Name ID Format** should be Unspecified
+    - **Application Username** should be Email
+    - Under **attributes** you'll want to create two:
+        - **Name**: email  **Value**: user.email
+        - **Name**: username    **Value**: user.login
 
 *_For Information on Group Attribute Statements, refer to the Automate 2.0 documentation_*
 
@@ -42,11 +42,11 @@ excerpt: 'A Tutorial for Setting Up SAML in A2 with Okta'
 - ssh to your A2 instance
 - create a file called `saml.toml` where we will put in configuration information
 - In the saml.toml file, you will need to add the following information in the example format listed in the image below: 
-    - *ca_contents*: this is the X.509 Certificate on the Setup Instructions page. Copy this and paste as the value for ca_contents. Use three double quotes to indicate a multiline string. (ex: `"""`)
-    - *sso_url*: This is the value for Identity Provider Single Sign-On URL listed on the Setup Instructions page in Okta
-    - *email_attr*: The value for this should be email
-    - *username_attr*: The value for this should be username
-    - *entity_issuer*: This should be the URL for your automate server plus /dex/callback. Example: https://your-automate.server/dex/callback
+    - **ca_contents**: this is the X.509 Certificate on the Setup Instructions page. Copy this and paste as the value for ca_contents. Use three double quotes to indicate a multiline string. (ex: `"""`)
+    - **sso_url**: This is the value for Identity Provider Single Sign-On URL listed on the Setup Instructions page in Okta
+    - **email_attr**: The value for this should be email
+    - **username_attr**: The value for this should be username
+    - **entity_issuer**: This should be the URL for your automate server plus /dex/callback. Example: https://your-automate.server/dex/callback
 
 - Save and close the file
 
