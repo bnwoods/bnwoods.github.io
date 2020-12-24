@@ -4,4 +4,4 @@ title: Resume
 featured_image:
 ---
 
-![Brittany Woods Resume](/assets/images/pages/Woods_Brittany_Resume.png)
+<embed src="/assets/images/Brittany_Woods_Resume.pdf" width="800px" height="1300px" />
