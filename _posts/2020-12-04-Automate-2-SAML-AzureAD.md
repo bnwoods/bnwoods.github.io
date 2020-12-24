@@ -33,7 +33,7 @@ excerpt: 'A Tutorial for Setting Up SAML in A2 with Azure AD'
 
 - Create a file called saml-config.toml with the following content:
 
-<pre>
+<pre><code class="language-toml">
  [dex.v1.sys.connectors.saml]
   ca_contents="""-----BEGIN CERTIFICATE-----
   THIS
@@ -49,6 +49,6 @@ excerpt: 'A Tutorial for Setting Up SAML in A2 with Azure AD'
   email_attr = "emailaddress"
   username_attr = "username"
   entity_issuer = "https://your-automate-server.com/dex/callback"
-</pre>
+</code></pre>
 
 - Run `sudo chef-automate config patch saml-config.toml` to apply the settings

@@ -35,7 +35,7 @@ The other important part of this is defining the support group for these cookboo
 
 In your “Scripted REST API” area in ServiceNow, create an endpoint. We have an API definition of Chef with “sub” areas below, the client failure one being called “clientFailures” meaning your resource path should look something like /api/namespace/chef/clientFailures. You will need an HTTP method of POST and for your script, you will want something like the following:
 
-``` javascript
+<pre><code class="language-javascript">
 (function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
 
 	var payload = JSON.parse(request.body.dataString);
@@ -130,7 +130,7 @@ In your “Scripted REST API” area in ServiceNow, create an endpoint. We have 
 	}
 
 })(request, response);
-```
+</code></pre>
 
 Basically, the above javascript takes the payload from Chef Automate sent to the REST endpoint we just created, determines if it is one of our internally developed cookbooks (indicated by the cookbook prefix), determines the error/failure from the payload, the cookbook name, and creates an event if there isn’t already one. Additionally, the failure output is attached to the event.
 
