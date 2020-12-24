@@ -43,7 +43,7 @@ Things you will need to store as secrets:
 #### The Policyfile
 Below is an example of a *very* standard policyfile. This is what is generated when you run `chef generate policyfile policyfileName`:
 
-``` ruby
+<pre><code class="language-ruby">
 # Policyfile.rb - Describe how you want Chef Infra Client to build your system.
 #
 # For more information on the Policyfile feature, visit
@@ -61,7 +61,7 @@ run_list 'your_cookbook_name'
 
 # Cookbook versions
 cookbook 'your_cookbook_name', '= 0.1.1'
-```
+</code></pre>
 
 #### The azure-pipelines.yml File
 What does this pipeline actually do? 
@@ -73,7 +73,7 @@ What does this pipeline actually do?
 - Cleans up the "merge" policygroup (when using branch policies and PRs in ADO you will inevitably end up with a merge branch)
 - Creates a pull request in ADO to allow for "human" gates for promotion to staging and production
 
-``` yaml
+<pre><code class="language-yaml">
 trigger:
   branches:
     include:
@@ -116,7 +116,7 @@ steps:
       esac
     displayName: 'Create Pull Request'
     condition: or(eq(variables['Build.SourceBranchName'], 'dev'), eq(variables['Build.SourceBranchName'], 'staging'))
-```
+</code></pre>
 
 #### What Does the Release Cycle Look Like? 
 Developers or policyfile owners will always work in the dev branch when making changes to their policyfiles. Upon push, the pipeline will run making the updates available to anything with the dev policy group applied. There will also be a pull request created automatically to promote from dev to staging. 
