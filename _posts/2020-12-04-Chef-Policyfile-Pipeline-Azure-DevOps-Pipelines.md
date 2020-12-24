@@ -43,8 +43,7 @@ Things you will need to store as secrets:
 #### The Policyfile
 Below is an example of a *very* standard policyfile. This is what is generated when you run `chef generate policyfile policyfileName`:
 
-<pre><code class="language-ruby">
-# Policyfile.rb - Describe how you want Chef Infra Client to build your system.
+<pre><code class="language-ruby"># Policyfile.rb - Describe how you want Chef Infra Client to build your system.
 #
 # For more information on the Policyfile feature, visit
 # https://docs.chef.io/policyfile/
@@ -60,8 +59,7 @@ default_source :supermarket, 'https://your-supermarket-server.com'
 run_list 'your_cookbook_name'
 
 # Cookbook versions
-cookbook 'your_cookbook_name', '= 0.1.1'
-</code></pre>
+cookbook 'your_cookbook_name', '= 0.1.1'</code></pre>
 
 #### The azure-pipelines.yml File
 What does this pipeline actually do? 
