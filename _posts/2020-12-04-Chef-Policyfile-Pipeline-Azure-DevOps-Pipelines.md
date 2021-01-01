@@ -15,6 +15,7 @@ Things you will need to store as secrets:
 - your .pem file used to access the chef server
 - your Azure DevOps PAT token
 
+
 #### Setup Steps
 
 - First, sign in to your ADO organization and create a personal access token. Store it somewhere safe
