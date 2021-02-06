@@ -1,0 +1,47 @@
+- selector: speaking_slider
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/shuttle-ops-ama.png
+      title: ShuttleOps DevOps AMA
+      alt: August 26, 2020
+      href: https://www.shuttleops.io/devops-ama-automation-security-compliance
+    - src: /assets/images/womxn-in-tech-panel.png
+      title: ChefConf 2020 WomXn in Tech Panel
+      alt: June 3, 2020
+      href: https://www.youtube.com/watch?v=Vckh82bi8ik
+    - src: /assets/images/chef-live-thumbnail.png
+      title: Chef LIVE!
+      alt: May 29, 2020
+      href: https://www.youtube.com/watch?v=7hQs_dCtqkw&t
+    - src: /assets/images/use-data-you-must.png
+      title: ChefConf 2020 - Use Data You Must
+      alt: May 27, 2020
+      href: https://www.youtube.com/watch?v=bONvpQVcfUc&t
+    - src: /assets/images/webinar-snow-chef.png
+      title: Integrating Chef with ServiceNow
+      alt: 2020
+      href: https://www.youtube.com/watch?v=rLi3qbKhaTk&feature=youtu.be
+    - src: /assets/images/original-images/chefconf2019keynote.jpg
+      title: ChefConf 2019 Keynote
+      alt: May 20-23, 2019
+      href: https://youtu.be/CmLUxCzxq3c?t=763
+    - src: /assets/images/bridging-the-great-divide.png
+      title: ChefConf 2019 Bridging the Great Divide
+      alt: May 20-23, 2019
+      href: https://www.youtube.com/watch?v=VnHJDl7SUjc&t
+    - src: /assets/images/original-images/herding-cats.png
+      title: ChefConf 2018 Herding Cats
+      alt: May 22-24, 2018
+      href: https://www.youtube.com/watch?v=LJ1c1QJfH1c
+    - src: /assets/images/original-images/quality-through-collaboration-interview.png
+      title: ChefConf 2018 Quality through Collaboration
+      alt: May 22-24, 2018
+      href: https://www.youtube.com/watch?v=fm8vm8HJOAU
+    - src: /assets/images/original-images/newstack-podcast-tweet.png
+      title: The New Stack - Makers
+      alt: May 22-24, 2018
+      href: https://twitter.com/thenewstack/status/999759491594768385
+  settings:
+    height: "'auto'"
+    interval: 5000

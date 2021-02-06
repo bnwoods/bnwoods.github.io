@@ -24,6 +24,9 @@
     <!-- CSS Styles -->
     <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
     <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/slider/ideal-image-slider.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/slider/themes/default/default.css"> 
+    {% include slider_styles.html %}
 
 </head>
 
@@ -81,6 +84,8 @@
     <script src="{{ site.baseurl }}/assets/js/plugins.js"></script>
     <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
     <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
+
+    {% include slider_scripts.html %}
 
 </body>
 

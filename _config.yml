@@ -42,8 +42,8 @@ navigation:
     url: /about
   - text: Speaking
     url: /speaking
-  - text: Around the Web
-    url: /aroundtheweb
+  - text: Publications
+    url: /publications
   - text: Consulting
     url: /consulting
   - text: Resume

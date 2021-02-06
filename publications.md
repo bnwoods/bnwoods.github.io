@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Around the Web
+title: Publications
 featured_image: /assets/images/original-images/Chef-Conf-2019-05-B-Stage-078.jpg
 ---
 
