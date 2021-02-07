@@ -4,6 +4,12 @@ title: Publications
 featured_image: /assets/images/original-images/Chef-Conf-2019-05-B-Stage-078.jpg
 ---
 
+#### 97 Things Every Cloud Engineer Should Know
+Featured in the O'Reilly Media publication 97 Things Every Cloud Engineer Should Know. Purchase your copy <a href ='https://bookshop.org/books/97-things-every-cloud-engineer-should-know-collective-wisdom-from-the-experts/9781492076735' target='_blank'>here</a>: 
+
+[![97 Things Every Cloud Engineer Should Know](/assets/images/original-images/97-things.png)](https://bookshop.org/books/97-things-every-cloud-engineer-should-know-collective-wisdom-from-the-experts/9781492076735)
+
+
 #### Chef Blog
 
 *ChefConf: What Keeps Me Coming Back*: See my post on [Chef's blog](https://blog.chef.io/chefconf-what-keeps-me-coming-back/) where I talk about why I continue going to ChefConf after all these years.
