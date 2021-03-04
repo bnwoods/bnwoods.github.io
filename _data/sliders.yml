@@ -2,6 +2,10 @@
   bullets: true
   captions: true
   images:
+    - src: /assets/images/dod-texas-2021.png
+      title: DevOpsDays Texas 2021
+      alt: March 2, 2021
+      href: https://youtu.be/Ji_Dl92D6ps?t=15238 
     - src: /assets/images/shuttle-ops-ama.png
       title: ShuttleOps DevOps AMA
       alt: August 26, 2020
