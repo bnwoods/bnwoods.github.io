@@ -9,9 +9,6 @@ Think I may be able to bring value to your event by speaking? Please reach out v
 
 ### _Upcoming Talks_
 
-#### DevOpsDays Texas - Online - March 2-3, 2021 - Un-paving the Road to Ruin: An Exploration of DevOps Journey Potholes
-
-
 ### _Past Talks_
 To view one of my past talks, click an image below
 
