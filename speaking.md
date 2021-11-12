@@ -9,13 +9,7 @@ Think I may be able to bring value to your event by speaking? Please reach out v
 
 ### _Upcoming Talks_
 
-*ChefConf 2021* - September 7, 2021 - Keynote
-
-*ChefConf 2021* - September 7, 2021 - The Unofficially Official Guide for Config Management at Scale
-
-*Pagerduty "Page It To The Limit" Podcast* - To be Released on August 17th!
-
-*Observy McObservface Podcast* - Info coming soon!
+*DevOps Cloud Days* - January 18, 2022 - January 20, 2022
 
 ### _Past Talks_
 To view one of my past talks, click an image below

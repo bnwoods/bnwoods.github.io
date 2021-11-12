@@ -2,6 +2,22 @@
   bullets: true
   captions: true
   images:
+    - src: /assets/images/observy.png
+      title: Observy McObservface Podcast
+      alt: September 22, 2021
+      href: https://dev.to/newrelic/skycraft-building-clouds-and-wrangling-robots-with-brittany-woods-jm
+    - src: /assets/images/chefconf2021-keynote.png
+      title: ChefConf 2021 Keynote
+      alt: September 7, 2021
+      href: https://youtu.be/xp06pSFipxo
+    - src: /assets/images/chefconf2021-unofficiallyofficial.png
+      title: ChefConf 2021 Unofficially Official Guide
+      alt: September 7, 2021
+      href: https://youtu.be/CEFtsTUCcv0
+    - src: /assets/images/pageittothelimit.png
+      title: Page it to the Limit Podcast
+      alt: August 16, 2021
+      href: https://www.pageittothelimit.com/automation-and-operations-with-brittany-woods/
     - src: /assets/images/dod-texas-2021.png
       title: DevOpsDays Texas 2021
       alt: March 2, 2021
