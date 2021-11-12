@@ -2,63 +2,63 @@
   bullets: true
   captions: true
   images:
-    - src: /assets/images/observy.png
+    - src: /assets/images/slider/observy.png
       title: Observy McObservface Podcast
       alt: September 22, 2021
       href: https://dev.to/newrelic/skycraft-building-clouds-and-wrangling-robots-with-brittany-woods-jm
-    - src: /assets/images/chefconf2021-keynote.png
+    - src: /assets/images/slider/chefconf2021-keynote.png
       title: ChefConf 2021 - Keynote
       alt: September 7, 2021
       href: https://youtu.be/xp06pSFipxo
-    - src: /assets/images/chefconf2021-unofficiallyofficial.png
+    - src: /assets/images/slider/chefconf2021-unofficiallyofficial.png
       title: ChefConf 2021 - Unofficially Official Guide
       alt: September 7, 2021
       href: https://youtu.be/CEFtsTUCcv0
-    - src: /assets/images/pageittothelimit.png
+    - src: /assets/images/slider/pageittothelimit.png
       title: Page it to the Limit Podcast
       alt: August 16, 2021
       href: https://www.pageittothelimit.com/automation-and-operations-with-brittany-woods/
-    - src: /assets/images/dod-texas-2021.png
+    - src: /assets/images/slider/dod-texas-2021.png
       title: DevOpsDays Texas 2021
       alt: March 2, 2021
       href: https://youtu.be/Ji_Dl92D6ps?t=15238 
-    - src: /assets/images/shuttle-ops-ama.png
+    - src: /assets/images/slider/shuttle-ops-ama.png
       title: ShuttleOps DevOps AMA
       alt: August 26, 2020
       href: https://www.shuttleops.io/devops-ama-automation-security-compliance
-    - src: /assets/images/womxn-in-tech-panel.png
+    - src: /assets/images/slider/womxn-in-tech-panel.png
       title: ChefConf 2020 WomXn in Tech Panel
       alt: June 3, 2020
       href: https://www.youtube.com/watch?v=Vckh82bi8ik
-    - src: /assets/images/chef-live-thumbnail.png
+    - src: /assets/images/slider/chef-live-thumbnail.png
       title: Chef LIVE!
       alt: May 29, 2020
       href: https://www.youtube.com/watch?v=7hQs_dCtqkw&t
-    - src: /assets/images/use-data-you-must.png
+    - src: /assets/images/slider/use-data-you-must.png
       title: ChefConf 2020 - Use Data You Must
       alt: May 27, 2020
       href: https://www.youtube.com/watch?v=bONvpQVcfUc&t
-    - src: /assets/images/webinar-snow-chef.png
+    - src: /assets/images/slider/webinar-snow-chef.png
       title: Integrating Chef with ServiceNow
       alt: 2020
       href: https://www.youtube.com/watch?v=rLi3qbKhaTk&feature=youtu.be
-    - src: /assets/images/original-images/chefconf2019keynote.jpg
+    - src: /assets/images/slider/chefconf2019keynote.jpg
       title: ChefConf 2019 Keynote
       alt: May 20-23, 2019
       href: https://youtu.be/CmLUxCzxq3c?t=763
-    - src: /assets/images/bridging-the-great-divide.png
+    - src: /assets/images/slider/bridging-the-great-divide.png
       title: ChefConf 2019 Bridging the Great Divide
       alt: May 20-23, 2019
       href: https://www.youtube.com/watch?v=VnHJDl7SUjc&t
-    - src: /assets/images/original-images/herding-cats.png
+    - src: /assets/images/slider/herding-cats.png
       title: ChefConf 2018 Herding Cats
       alt: May 22-24, 2018
       href: https://www.youtube.com/watch?v=LJ1c1QJfH1c
-    - src: /assets/images/original-images/quality-through-collaboration-interview.png
+    - src: /assets/images/slider/quality-through-collaboration-interview.png
       title: ChefConf 2018 Quality through Collaboration
       alt: May 22-24, 2018
       href: https://www.youtube.com/watch?v=fm8vm8HJOAU
-    - src: /assets/images/original-images/newstack-podcast-tweet.png
+    - src: /assets/images/slider/newstack-podcast-tweet.png
       title: The New Stack - Makers
       alt: May 22-24, 2018
       href: https://twitter.com/thenewstack/status/999759491594768385
