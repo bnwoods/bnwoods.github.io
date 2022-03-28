@@ -9,8 +9,8 @@ Think I may be able to bring value to your event by speaking? Please reach out v
 
 ### _Upcoming Talks_
 
-*O'Really Learning: Implementing Chef in 4 Hours* - April 29, 2022 - Online
-*JFrog swampUP* - May 25, 2022 - Carlsbad, CA
+- *O'Really Learning: Implementing Chef in 4 Hours* - April 29, 2022 - Online
+- *JFrog swampUP* - May 25, 2022 - Carlsbad, CA
 
 ### _Past Talks_
 To view one of my past talks, click an image below
