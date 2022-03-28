@@ -2,6 +2,10 @@
   bullets: true
   captions: true
   images:
+    - src: /assets/images/slider/clouddays.png
+      title: DevOps Cloud Days 2022
+      alt: January 20, 2022
+      href: https://youtu.be/bgqtTQCi5eM
     - src: /assets/images/slider/observy.png
       title: Observy McObservface Podcast
       alt: September 22, 2021
