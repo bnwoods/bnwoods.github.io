@@ -7,7 +7,8 @@ image_sliders:
 ---
 Think I may be able to bring value to your event by speaking? Please reach out via [Twitter](https://twitter.com/bnwoods2008), via [Email](mailto:brittany.woods@hey.com), or [LinkedIn](https://www.linkedin.com/in/bnwoods)!
 
-### _Upcoming Talks _
+### _Upcoming Talks_
+
 - *ChefConf 2022* - September 11-14, 2022 - Boston, MA
 
 ### _Recent Talks_
