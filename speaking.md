@@ -8,7 +8,6 @@ image_sliders:
 Do you think I may bring value to your event as a speaker? Please reach out via [Twitter](https://twitter.com/bnwoods2008), via [Email](mailto:brittanywoods2008@gmail.com), or [LinkedIn](https://www.linkedin.com/in/bnwoods)!
 
 ### _Upcoming Talks_
-- *Kubernetes for Humans Podcast* - Recording Soon
 - *DevOpsDays London* - September 21-22, 2023 - London, United Kingdom
 - *ChefConf2023 Munich* - October 12-13, 2023 - Munich, Germany
 
