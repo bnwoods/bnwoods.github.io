@@ -14,7 +14,6 @@ Do you think I may bring value to your event as a speaker? Please reach out via 
 ### _Recent Talks_
 - *O'Really Learning: Implementing Chef in 4 Hours* - April 29, 2022 - Online
 - *JFrog swampUP* - May 25, 2022 - Carlsbad, CA
-- *ChefConf 2022* - September 11-14, 2022 - Boston, MA
 
 ### _Past Talks_
 To view one of my past talks, click an image below
