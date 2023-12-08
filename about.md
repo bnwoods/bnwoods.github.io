@@ -4,10 +4,8 @@ title: About
 featured_image: /assets/images/pages/about-brittany.jpg
 ---
 
-Brittany Woods is an automater of things based in London. During her career in technical and leadership roles spanning the financial, automotive, and retail sectors, Brittany has been a significant advocate for utilizing DevOps practices to empower teams, increase innovation, and improve the developer experience while amplifying business outcomes. 
-
-When she's not automating the things, Brittany enjoys new adventures, clarinet and bass guitar playing, and lazy weekends.
-
-Brittany is currently a Senior Engineering Manager for the LEGO.com Platform Team at the LEGO Group. 
+Brittany Woods is a Senior Engineering leader currently based in London. During her career in technical and leadership roles spanning verticals across the financial, automotive, and retail sectors, Brittany has been a significant advocate for digital transformation, DevOps, and increased organisational innovation. As an industry advocate for DevOps, Brittany has worked to increase developer efficiency while improving developer experience in several organisations globally. This work has also focussed on improving organisational culture and can be seen through her talks on the topic. Brittany has been featured in the book "97 Things Every Cloud Engineer Should Know" with her article on silos in modern tech teams.
+ 
+Brittany is currently a Senior Engineering Manager for The LEGO Group.
 
 Brittany’s pronouns are she/her. 
