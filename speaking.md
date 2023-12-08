@@ -7,13 +7,15 @@ image_sliders:
 ---
 Do you think I may bring value to your event as a speaker? Please reach out via [Twitter](https://twitter.com/bnwoods2008), via [Email](mailto:brittanywoods2008@gmail.com), or [LinkedIn](https://www.linkedin.com/in/bnwoods)!
 
-### _Upcoming Talks_
-- *DevOpsDays London* - September 21-22, 2023 - London, United Kingdom
-- *ChefConf2023 Munich* - October 12-13, 2023 - Munich, Germany
+### _Upcoming Talks and Panels_
+- *Female.js* - February 8, 2024 - London, United Kingdom
+- *Cloud Expo Europe* - March 6-7, 2024 - London, United Kingdom
+- *QCon London* - April 8-10, 2024 - London, United Kingdom
 
 ### _Recent Talks_
 - *O'Really Learning: Implementing Chef in 4 Hours* - April 29, 2022 - Online
 - *JFrog swampUP* - May 25, 2022 - Carlsbad, CA
+- *ChefConf2023 Munich* - October 12-13, 2023 - Munich, Germany
 
 ### _Past Talks_
 To view one of my past talks, click an image below
