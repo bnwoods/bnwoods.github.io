@@ -56,6 +56,6 @@ Links to follow
 - ChefConf Session: Bridging the Great Divide
 
 #### 2018
-- ChefConf: Herding Cats
+- ChefConf Session: Herding Cats
 - The New Stack Makers: Chef
 - ChefConf Customer Story: Quality Through Collaboration
