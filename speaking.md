@@ -38,7 +38,7 @@ Links to follow
 - Pagerduty Community Panel: SRE for Women's History Month
 
 #### 2021
-- DevOpsDays Texas: 
+- DevOpsDays Texas: Unpaving the Road to Ruin
 - Podcast: Page it to the Limit
 - ChefConf Session: Unofficially Official Guide to Config Management at Scale
 - ChefConf 2021 Keynote
