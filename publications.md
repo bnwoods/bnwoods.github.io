@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-featured_image: /assets/images/original-images/Chef-Conf-2019-05-B-Stage-078.jpg
+featured_image:
 ---
 
 #### 97 Things Every Cloud Engineer Should Know
