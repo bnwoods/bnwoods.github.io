@@ -21,3 +21,41 @@ Do you think I may bring value to your event as a speaker? Please reach out via 
 To view one of my past talks, click an image below
 
 {% include slider.html selector="speaking_slider" %}
+
+### _All Past Speaking_
+
+Links to follow
+
+#### 2023
+- ChefConf Munich Session: The Three Little Pigs of DevOps
+- ChefConf Munich Session: Into the Dataverse
+
+#### 2022
+- jFrog: DevOps Cloud Days 2022 - Azure
+- ChefConf Session: Config Management Isn't Dead
+- O'Reilly Learning: Implementing Chef in 4 Hours
+- jFrog SwampUP: Toadal Team Enablement
+- Pagerduty Community Panel: SRE for Women's History Month
+
+#### 2021
+- DevOpsDays Texas: 
+- Podcast: Page it to the Limit
+- ChefConf Session: Unofficially Official Guide to Config Management at Scale
+- ChefConf 2021 Keynote
+- Podcast: Observy McObservface - Building Clouds and Wrangling Robots with Brittany Woods
+
+#### 2020
+- Webinar: Integrating Chef with ServiceNow
+- ChefConf Session: Use Data You Must
+- ChefLIVE! Twitch Stream
+- ChefConf Panel: WomXn in Tech Panel
+- ShuttleOps DevOps AMA: Automation, Security, and Compliance
+
+#### 2019
+- ChefConf 2019 Keynote
+- ChefConf Session: Bridging the Great Divide
+
+#### 2018
+- ChefConf: Herding Cats
+- The New Stack Makers: Chef
+- ChefConf Customer Story: Quality Through Collaboration
