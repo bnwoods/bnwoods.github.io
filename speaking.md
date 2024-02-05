@@ -24,6 +24,7 @@ Links to follow
 #### 2023
 - ChefConf Munich Session: The Three Little Pigs of DevOps
 - ChefConf Munich Session: Into the Dataverse
+- ChefConf Munich 2023 Keynote
 
 #### 2022
 - jFrog: DevOps Cloud Days 2022 - Azure
