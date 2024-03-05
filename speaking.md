@@ -5,11 +5,10 @@ featured_image: /assets/images/original-images/Chef-Conf-2019-05-B-Stage-058.jpg
 image_sliders: 
     - speaking_slider
 ---
-Do you think I may bring value to your event as a speaker? Please reach out via [Twitter](https://twitter.com/bnwoods2008), via [Email](mailto:brittanywoods2008@gmail.com), or [LinkedIn](https://www.linkedin.com/in/bnwoods)!
+Are you looking for a speaker for your event? Please reach out via [Email](mailto:brittanywoods2008@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bnwoods)!
 
 ### _Upcoming Talks and Panels_
-- *Female.js* - February 8, 2024 - London, United Kingdom
-- *Cloud Expo Europe* - March 6-7, 2024 - London, United Kingdom
+- *Cloud Expo Europe: DevOpsLive* - March 6-7, 2024 - London, United Kingdom
 - *QCon London* - April 8-10, 2024 - London, United Kingdom
 
 ### _Past Talks_
