@@ -8,8 +8,8 @@ image_sliders:
 Are you looking for a speaker for your event? Please reach out via [Email](mailto:brittanywoods2008@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bnwoods)!
 
 ### _Upcoming Talks and Panels_
-- *Cloud Expo Europe: DevOpsLive* - March 6-7, 2024 - London, United Kingdom
-- *QCon London* - April 8-10, 2024 - London, United Kingdom
+- Progress Chef Roadshow - April 17, 2024 - London, UK
+- KCDC 2024 - June 26-28, 2024 - Kansas City, MO
 
 ### _Past Talks_
 To view one of my past talks, click an image below
@@ -19,6 +19,11 @@ To view one of my past talks, click an image below
 ### _All Past Speaking_
 
 Links to follow
+
+#### 2024
+- Cloud Expo Europe DevOpsLive: Cultivating Organisational Success - Unleashing the Human Element
+- QCon London: Bits, Bots, and Banter - How Tech Teams Work in a DevOps World
+
 
 #### 2023
 - ChefConf Munich Session: The Three Little Pigs of DevOps
