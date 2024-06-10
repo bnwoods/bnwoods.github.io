@@ -13,11 +13,6 @@ Are you looking for a speaker for your event? Please reach out via [Email](mailt
 - InfoQ Engineering Culture Podcast - Summer 2024 - Online
 - DevOpsCon - December 2-5, 2024  - Munich, Germany
 
-### _Past Talks_
-To view one of my past talks, click an image below
-
-{% include slider.html selector="speaking_slider" %}
-
 ### _All Past Speaking_
 
 Links to follow
@@ -62,3 +57,8 @@ Links to follow
 - ChefConf Session: Herding Cats
 - The New Stack Makers: Chef
 - ChefConf Customer Story: Quality Through Collaboration
+
+### _Highlight Reel_
+To view some highlights of my speaking history, click an image below
+
+{% include slider.html selector="speaking_slider" %}
