@@ -4,6 +4,9 @@ title: Publications
 featured_image:
 ---
 
+#### Infoq
+*Fostering Healthy Tech Teams in a DevOps World* was published by Ben Linders to highlight our discussion on ensuring a well rounded and psychologically safe environment within modern technology teams.
+
 #### 97 Things Every Cloud Engineer Should Know
 Featured in the O'Reilly Media publication 97 Things Every Cloud Engineer Should Know. Purchase your copy <a href ='https://bookshop.org/books/97-things-every-cloud-engineer-should-know-collective-wisdom-from-the-experts/9781492076735' target='_blank'>here</a>: 
 
