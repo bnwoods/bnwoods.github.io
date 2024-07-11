@@ -9,6 +9,8 @@ featured_image:
 
 *How Team Health Checks Help Software Teams to Deliver* was published by Ben Linders as a follow up to our conversation on the importance of checking in on the health of your teams.
 
+*Leading Tech People or Remaining a Software Engineer: What to Choose?* <a href ='https://www.infoq.com/articles/leading-team-software-engineer/'>This virtual panel discussion highlights some of the things that an engineer should consider when thinking about what is next for them and was facilitated by Ben Linders and Shawna Martell.</a>
+
 #### 97 Things Every Cloud Engineer Should Know
 Featured in the O'Reilly Media publication 97 Things Every Cloud Engineer Should Know. Purchase your copy <a href ='https://bookshop.org/books/97-things-every-cloud-engineer-should-know-collective-wisdom-from-the-experts/9781492076735' target='_blank'>here</a>: 
 
