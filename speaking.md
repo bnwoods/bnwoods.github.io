@@ -8,7 +8,7 @@ image_sliders:
 Are you looking for a speaker for your event? Please reach out via [Email](mailto:brittanywoods2008@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bnwoods)!
 
 ### _Upcoming Talks and Panels_
-- InfoQ Engineering Culture Podcast - Summer 2024 - Online
+- InfoQ Engineering Culture Podcast - July 2024 - Online
 - TBD Chef Event - September 2024 - London, United Kingdom
 - DevOpsCon - December 2-5, 2024  - Munich, Germany
 
