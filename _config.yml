@@ -17,10 +17,10 @@ author:
   image: 'authorimage.jpg'
   greetings: "Hi! I'm Brittany"
   description: "I automate computer things. I love tea. I have opinions."
-  bio: 'Brittany is an automator of the things, a DevOps practitioner, a speaker, a shade queen, and an animal lover.'
+  bio: 'Brittany is an automator of the things, a DevOps leader, a culture advocate, an international speaker, and an animal lover.'
 
 # Contact form setings
-email: brittany.woods@hey.com
+email: brittanywoods2008@gmail.com
 contact_page_description: "Have a question or want to get in touch? Feel free to reach out!"
 thankyou_page_description: "Your message has been successfully sent. I will be in touch soon!"
 
@@ -44,8 +44,6 @@ navigation:
     url: /speaking
   - text: Publications
     url: /publications
-  - text: Consulting
-    url: /consulting
   - text: Resume
     url: /resume
   - text: Contact Me
