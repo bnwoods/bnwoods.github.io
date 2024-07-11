@@ -21,7 +21,7 @@ Links to follow
 - QCon London: Bits, Bots, and Banter - How Tech Teams Work in a DevOps World
 - Progress Chef Roadshow London: Chef Journey Through Massive Scale
 - Progress Chef Roadshow Texas: Chef Journey Through Massive Scale
-- KCDC 2024: DevOps Unleashed: Cracking the Code to Success with Culture, Structure, and Technology
+- KCDC 2024: DevOps Unleashed - Cracking the Code to Success with Culture, Structure, and Technology
 
 
 #### 2023
