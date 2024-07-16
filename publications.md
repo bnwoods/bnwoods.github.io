@@ -5,7 +5,7 @@ featured_image:
 ---
 
 #### Infoq
-*Fostering Healthy Tech Teams in a DevOps World* was published by Ben Linders to highlight our discussion on ensuring a well rounded and psychologically safe environment within modern technology teams.
+*Fostering Healthy Tech Teams in a DevOps World* is an<a href='https://www.infoq.com/news/2024/06/healthy-tech-teams-devops/'> article</a> published by Ben Linders to highlight our discussion on ensuring a well rounded and psychologically safe environment within modern technology teams.
 
 *How Team Health Checks Help Software Teams to Deliver* was published by Ben Linders as a follow up to our conversation on the importance of checking in on the health of your teams.
 
