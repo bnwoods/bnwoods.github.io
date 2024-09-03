@@ -8,8 +8,6 @@ image_sliders:
 Are you looking for a speaker for your event? Please reach out via [Email](mailto:brittanywoods2008@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bnwoods)!
 
 ### _Upcoming Talks and Panels_
-- InfoQ Engineering Culture Podcast - July 2024 - Online
-- TBD Chef Event - September 2024 - London, United Kingdom
 - DevOpsCon - December 2-5, 2024  - Munich, Germany
 
 ### _All Past Speaking_
@@ -17,6 +15,7 @@ Are you looking for a speaker for your event? Please reach out via [Email](mailt
 Links to follow
 
 #### 2024
+- InfoQ Engineering Culture Podcast: Enhancing Team Dynamics and Psychological Safety with Brittany Woods
 - Cloud Expo Europe DevOpsLive: Cultivating Organisational Success - Unleashing the Human Element
 - QCon London: Bits, Bots, and Banter - How Tech Teams Work in a DevOps World
 - Progress Chef Roadshow London: Chef Journey Through Massive Scale
