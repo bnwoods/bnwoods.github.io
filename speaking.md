@@ -8,13 +8,15 @@ image_sliders:
 Are you looking for a speaker for your event? Please reach out via [Email](mailto:brittanywoods2008@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bnwoods)!
 
 ### _Upcoming Talks and Panels_
-- DevOpsCon - December 2-5, 2024  - Munich, Germany
+- Check back soon for my 2025 schedule!
 
 ### _All Past Speaking_
 
 Links to follow
 
 #### 2024
+- DevOpsCon Munich: DevOps Unleashed - Cracking the Code to Success with Culture, Structure, and Technology
+- DevOpsCon Munich Keynote: The DevOps Umbrella - How Changing Needs Brought About Changing Teams
 - InfoQ Engineering Culture Podcast: Enhancing Team Dynamics and Psychological Safety with Brittany Woods
 - Cloud Expo Europe DevOpsLive: Cultivating Organisational Success - Unleashing the Human Element
 - QCon London: Bits, Bots, and Banter - How Tech Teams Work in a DevOps World
