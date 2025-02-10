@@ -8,7 +8,7 @@ image_sliders:
 Are you looking for a speaker for your event? Please reach out via [Email](mailto:brittanywoods2008@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bnwoods)!
 
 ### _Upcoming Talks and Panels_
-- Check back soon for my 2025 schedule!
+- DevOpsLive London - March 12 & 13, 2025
 
 ### _All Past Speaking_
 
