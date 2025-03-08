@@ -14,6 +14,12 @@ Are you looking for a speaker for your event? Please reach out via [Email](mailt
 
 Links to follow
 
+#### 2025
+- DevOpsLive London Panel Discussion: Building Strong Foundations - The Importance of Cultivating a Healthy DevOps Culture for Collaboration
+- DevOpsLive London Panel Discussion: From Diversity to Disruption - Shaping the Future of Tech
+- DevOpsLive Keynote: The DevOps Umbrella - How Changing Needs Brought About Changing Teams
+
+
 #### 2024
 - DevOpsCon Munich: DevOps Unleashed - Cracking the Code to Success with Culture, Structure, and Technology
 - DevOpsCon Munich Keynote: The DevOps Umbrella - How Changing Needs Brought About Changing Teams
